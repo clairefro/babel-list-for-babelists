@@ -1,4 +1,4 @@
-# babel-list-for-babelists
+# Babel list for Babelists
 
 > By this art you may contemplate the variation of the twenty-three letters  (Robert Burton, The Anatomy of Melancholy)
 
