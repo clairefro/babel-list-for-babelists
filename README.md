@@ -20,7 +20,7 @@ Dumping grounds for resources related to: babel, cosmic absurdity, epistemic lab
 
 ## Essays and analysis
 - [Tar for Mortar: "The Library of Babel" and the Dream of Totality (Jonathan Basile)](https://punctumbooks.com/titles/tar-for-mortar/)
-- [The Unimaginable Mathematics of Borges' Library of Babel](https://en.wikipedia.org/wiki/The_Unimaginable_Mathematics_of_Borges%27_Library_of_Babel)
+- [The Unimaginable Mathematics of Borges' Library of Babel (William Goldbloom Bloch)](https://en.wikipedia.org/wiki/The_Unimaginable_Mathematics_of_Borges%27_Library_of_Babel)
 
 ## Tangential 
 - [The Aleph (Jorge Luis Borges)](https://en.wikipedia.org/wiki/The_Aleph_(short_story))
