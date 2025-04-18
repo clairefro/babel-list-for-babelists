@@ -27,3 +27,4 @@ Dumping grounds for resources related to: babel, man and god, epistemic labyrint
 - [The Analytical Language of John Wilkins (Jorge Luis Borges)](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
 - [Conversations - vol I, II, II](https://seagullbooks.org/products/conversations-volume-1) - Dialogs between Borges and Osvaldo Ferrari
 - [Programming as an Alien Language (Lucas Bang)](https://docs.google.com/presentation/d/1HBmEffxoPtXaeP_JfjcE2D5bI9ML8wDjmmLdc9BLUZ4/edit#slide=id.g28e14f673a8_1_0)
+- [Tractatus Logico-Philosophicus (Ludwig Wittgenstein)](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)
