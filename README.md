@@ -11,12 +11,14 @@
 - [Paradise Lost (John Milton )](https://en.wikipedia.org/wiki/Paradise_Lost)
 - [Tower of Babylon (Ted Chiang)](https://en.wikipedia.org/wiki/Tower_of_Babylon_(story))
 - [Babel-17 (Samuel R. Delany)](https://en.wikipedia.org/wiki/Babel-17)
+- [The Total Library (Kurd Lasswitz)](https://gwern.net/doc/borges/1939-borges-thetotallibrary.pdf)
 
 ## Websites
 - [libraryofbabel.info](https://libraryofbabel.info/) - digital Library of Babel by Jonathan Basile
 
-## Essays 
+## Essays and analysis
 - [Tar for Mortar: "The Library of Babel" and the Dream of Totality (Jonathan Basile)](https://punctumbooks.com/titles/tar-for-mortar/)
+- [The Unimaginable Mathematics of Borges' Library of Babel](https://en.wikipedia.org/wiki/The_Unimaginable_Mathematics_of_Borges%27_Library_of_Babel)
 
 ## Tangential 
 - [The Aleph (Jorge Luis Borges)](https://en.wikipedia.org/wiki/The_Aleph_(short_story))
