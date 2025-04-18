@@ -2,6 +2,8 @@
 
 > By this art you may contemplate the variation of the twenty-three letters  (Robert Burton, The Anatomy of Melancholy)
 
+Dumping grounds for resources related to: babel, cosmic absurdity, epistemic labyrinths, limts of language, divine language, combinatorics, the intersection of language-abstraction-and-the-divine
+
 ## Books and stories
 - [Tower of Babel story in Bible: Genesis 11 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)
 - [Quran: Surah Al-Qasas - 38](https://quran.com/28?startingVerse=38)
