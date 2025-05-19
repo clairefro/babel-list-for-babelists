@@ -14,6 +14,9 @@ Dumping grounds for resources related to: babel, humanity and spirit, epistemic 
 - [Babel-17 (Samuel R. Delany)](https://en.wikipedia.org/wiki/Babel-17)
 - [The Total Library (Kurd Lasswitz)](https://gwern.net/doc/borges/1939-borges-thetotallibrary.pdf)
 
+## Computation
+- [pifs](https://github.com/philipl/pifs) - any file, stored in pi
+
 ## Websites
 - [libraryofbabel.info](https://libraryofbabel.info/) - digital Library of Babel by Jonathan Basile
 
