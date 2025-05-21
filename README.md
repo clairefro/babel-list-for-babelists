@@ -19,6 +19,7 @@ Dumping grounds for resources related to: babel, humanity and spirit, epistemic 
 
 ## Websites
 - [libraryofbabel.info](https://libraryofbabel.info/) - digital Library of Babel by Jonathan Basile
+- [Borges' all-encompassing word search](http://borgeslibrary.com/b/en/Board/) - by Rony Maltz and Daniel Temkin
 
 ## Essays and analysis
 - [Tar for Mortar: "The Library of Babel" and the Dream of Totality (Jonathan Basile)](https://punctumbooks.com/titles/tar-for-mortar/)
